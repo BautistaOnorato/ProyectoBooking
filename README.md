@@ -212,17 +212,17 @@ La base de datos fue creada en mysql utilizando workbench.
 
 Imagen de diagrama entidad relación (DER)
 
-![WhatsApp_Image_2023-04-05_at_11.46.39](uploads/5c45670a56a06dc167d0387372dceda2/WhatsApp_Image_2023-04-05_at_11.46.39.jpeg)
+[![Whats-App-Image-2023-04-05-at-11-46-39.jpg](https://i.postimg.cc/RCP8prZn/Whats-App-Image-2023-04-05-at-11-46-39.jpg)](https://postimg.cc/4n9BnStJ)
 
 Imagen del trigger que crea codigos de reserva unicos de 6 caracteres
 
-![WhatsApp_Image_2023-04-05_at_11.48.17](uploads/c91a93bea3449605309302e4f26e5ce4/WhatsApp_Image_2023-04-05_at_11.48.17.jpeg)
+[![Whats-App-Image-2023-04-05-at-11-48-17.jpg](https://i.postimg.cc/HnPhrMht/Whats-App-Image-2023-04-05-at-11-48-17.jpg)](https://postimg.cc/YLY3Vvk4)
 
 ## Infraestructura
 
 La infraestructura se implementó en Amazon Web Services (AWS) y se basa en la siguiente arquitectura:
 
-![Marco_Horizontal_AWS_-_grupo8__-_Marco_horizontal_AWS__2019___2_](uploads/c4c7f18510af26873d4f9cc149a73cec/Marco_Horizontal_AWS_-_grupo8__-_Marco_horizontal_AWS__2019___2_.jpeg)
+[![infra.png](https://i.postimg.cc/PrP7B6CV/infra.png)](https://postimg.cc/ykCnRyX0)
 
 Amazon Virtual Private Cloud (VPC): se utilizó para crear un entorno aislado y seguro en la nube de AWS. La VPC permite la creación de subredes privadas y públicas, lo que permite una mayor seguridad y flexibilidad en la configuración de la red.
 
